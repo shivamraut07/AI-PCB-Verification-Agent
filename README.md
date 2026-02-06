@@ -1,5 +1,7 @@
 # AI PCB Verification Agent
 
+📊 **Progress Tracker:** [View on Notion](https://www.notion.so/AI-PCB-Verification-Agent-2fe7eafe1a35806fa778fd0b65e244cd?source=copy_link)
+
 **Status:** v0.1 - Working Prototype ✅  
 **Author:** Shivam Raut 
 **Date:** February 6, 2026
